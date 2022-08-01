@@ -1,10 +1,10 @@
-# Change directory to source folder
+# Change directory to source folder ()
 
-    cd DjangoTask/InforceTask/
+    cd <path to this project>/InforceTask/
 ___
 # Environment variables
 
-in source directory (DjangoTask/InforceTask/) create .env file and add:
+in source directory (<path to this project>/InforceTask/) create .env file and add:
 
     POSTGRES_HOST='localhost'
 
